@@ -11,10 +11,13 @@
 		A120D6A72681B621003E8C70 /* ExperimentalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A120D6A62681B621003E8C70 /* ExperimentalViewController.swift */; };
 		A120D6AB26840BDF003E8C70 /* ExperimentalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A120D6AA26840BDF003E8C70 /* ExperimentalModel.swift */; };
 		A120D6AD2685A87C003E8C70 /* ExperimentalDataTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A120D6AC2685A87C003E8C70 /* ExperimentalDataTableViewController.swift */; };
-		A120D6B4269D482E003E8C70 /* RPAModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A120D6B3269D482E003E8C70 /* RPAModel.swift */; };
-		A12D8008269E8DED000E2723 /* RPAHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12D8007269E8DED000E2723 /* RPAHomeViewController.swift */; };
+		A12CFB992702CFA9000564A9 /* ColdStorageModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12CFB982702CFA9000564A9 /* ColdStorageModels.swift */; };
+		A1362FE926F449A7009E9DEF /* ColdStorageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1362FE826F449A7009E9DEF /* ColdStorageViewController.swift */; };
+		A14C029526B28869002965F4 /* StorageHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14C029426B28869002965F4 /* StorageHomeViewController.swift */; };
+		A14C029B26C4E416002965F4 /* RetailNewHomepageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14C029A26C4E416002965F4 /* RetailNewHomepageTableViewController.swift */; };
 		A1562CE8259D88C400B16AB7 /* WholesaleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1562CE7259D88C400B16AB7 /* WholesaleModel.swift */; };
 		A1562CEB25A2BED100B16AB7 /* WholesaleTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1562CEA25A2BED100B16AB7 /* WholesaleTableViewController.swift */; };
+		A1739032273CFA6F00D40EF0 /* StorageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1739031273CFA6F00D40EF0 /* StorageTableViewController.swift */; };
 		A1E4BFB626045AD6005E4ABA /* DoorToDoorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E4BFB526045AD6005E4ABA /* DoorToDoorViewController.swift */; };
 		B002F41724F4ECE3004A8FE2 /* ScaleBLETableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B002F41624F4ECE3004A8FE2 /* ScaleBLETableViewController.swift */; };
 		B002F41A24F4F46B004A8FE2 /* ScaleBLEModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B002F41924F4F46B004A8FE2 /* ScaleBLEModel.swift */; };
@@ -165,10 +168,13 @@
 		A120D6A62681B621003E8C70 /* ExperimentalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentalViewController.swift; sourceTree = "<group>"; };
 		A120D6AA26840BDF003E8C70 /* ExperimentalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentalModel.swift; sourceTree = "<group>"; };
 		A120D6AC2685A87C003E8C70 /* ExperimentalDataTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperimentalDataTableViewController.swift; sourceTree = "<group>"; };
-		A120D6B3269D482E003E8C70 /* RPAModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPAModel.swift; sourceTree = "<group>"; };
-		A12D8007269E8DED000E2723 /* RPAHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPAHomeViewController.swift; sourceTree = "<group>"; };
+		A12CFB982702CFA9000564A9 /* ColdStorageModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColdStorageModels.swift; sourceTree = "<group>"; };
+		A1362FE826F449A7009E9DEF /* ColdStorageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColdStorageViewController.swift; sourceTree = "<group>"; };
+		A14C029426B28869002965F4 /* StorageHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageHomeViewController.swift; sourceTree = "<group>"; };
+		A14C029A26C4E416002965F4 /* RetailNewHomepageTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetailNewHomepageTableViewController.swift; sourceTree = "<group>"; };
 		A1562CE7259D88C400B16AB7 /* WholesaleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WholesaleModel.swift; sourceTree = "<group>"; };
 		A1562CEA25A2BED100B16AB7 /* WholesaleTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WholesaleTableViewController.swift; sourceTree = "<group>"; };
+		A1739031273CFA6F00D40EF0 /* StorageTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageTableViewController.swift; sourceTree = "<group>"; };
 		A1E4BFB526045AD6005E4ABA /* DoorToDoorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoorToDoorViewController.swift; sourceTree = "<group>"; };
 		B002F41624F4ECE3004A8FE2 /* ScaleBLETableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleBLETableViewController.swift; sourceTree = "<group>"; };
 		B002F41924F4F46B004A8FE2 /* ScaleBLEModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleBLEModel.swift; sourceTree = "<group>"; };
@@ -353,13 +359,21 @@
 			path = Experimental;
 			sourceTree = "<group>";
 		};
-		A120D6AE269D4103003E8C70 /* RPA */ = {
+		A1362FE726F4498E009E9DEF /* ColdStorage */ = {
 			isa = PBXGroup;
 			children = (
-				A120D6B3269D482E003E8C70 /* RPAModel.swift */,
-				A12D8007269E8DED000E2723 /* RPAHomeViewController.swift */,
+				A1362FE826F449A7009E9DEF /* ColdStorageViewController.swift */,
+				A12CFB982702CFA9000564A9 /* ColdStorageModels.swift */,
 			);
-			path = RPA;
+			path = ColdStorage;
+			sourceTree = "<group>";
+		};
+		A14C029326B28855002965F4 /* Storage */ = {
+			isa = PBXGroup;
+			children = (
+				A14C029426B28869002965F4 /* StorageHomeViewController.swift */,
+			);
+			path = Storage;
 			sourceTree = "<group>";
 		};
 		A1562CE3259D883E00B16AB7 /* Wholesale */ = {
@@ -443,6 +457,7 @@
 		B0331E4522C3963500A595B0 /* broilerfarm */ = {
 			isa = PBXGroup;
 			children = (
+				A14C029326B28855002965F4 /* Storage */,
 				B01F7F0F2337B6CD00692C5B /* broilerfarm.entitlements */,
 				B0331E4622C3963500A595B0 /* AppDelegate.swift */,
 				B0331E4822C3963500A595B0 /* ViewController.swift */,
@@ -561,7 +576,7 @@
 			isa = PBXGroup;
 			children = (
 				B03B1E5722C3AB380067C3C7 /* HomepageViewController.swift */,
-				A120D6AE269D4103003E8C70 /* RPA */,
+				A1362FE726F4498E009E9DEF /* ColdStorage */,
 				A120D6A52681B5FD003E8C70 /* Experimental */,
 				B0A92377250CAE82006F45EE /* Sensors */,
 				B0EC09B224E6558F00C42125 /* Reference Template */,
@@ -647,6 +662,7 @@
 				B029622E24795224008629CD /* RetailStockOperationViewController.swift */,
 				B0EA2E2F247BA44900D1AD76 /* RetailStockOperationHistoryTableViewController.swift */,
 				B0291524247CB5E2009E1C3B /* RetailStockOperationDetailsViewController.swift */,
+				A1739031273CFA6F00D40EF0 /* StorageTableViewController.swift */,
 			);
 			path = Administration;
 			sourceTree = "<group>";
@@ -654,6 +670,7 @@
 		B0CAD4562451ABAA00ADCEF7 /* Retail */ = {
 			isa = PBXGroup;
 			children = (
+				A14C029A26C4E416002965F4 /* RetailNewHomepageTableViewController.swift */,
 				B0CAD4572451ABE500ADCEF7 /* RetailHomepageViewController.swift */,
 				B0682B212451C2330038B3A0 /* RetailPreparationTicketViewController.swift */,
 				B0682B2324529DEE0038B3A0 /* RetailDeliveryViewController.swift */,
@@ -923,6 +940,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B08C6D0322CA2CE200AFEC4F /* DailyRecordDataViewController.swift in Sources */,
+				A14C029B26C4E416002965F4 /* RetailNewHomepageTableViewController.swift in Sources */,
 				B03B1E5622C3A7D20067C3C7 /* AuthenticationViewController.swift in Sources */,
 				B00F1EF424F75982006A84D2 /* PerusahaanTableViewController.swift in Sources */,
 				B0DA83B123AF33CB00C33157 /* ReferenceItemsTableViewController.swift in Sources */,
@@ -933,6 +951,7 @@
 				B0392A16237CEC4D006B84F6 /* PettyCashHistoryDetailsViewController.swift in Sources */,
 				B0AA6D5D22C8860800BFD3A9 /* VentilationDataDetailsViewController.swift in Sources */,
 				B0F29F28236BA2D30059CAD2 /* StorageViewController.swift in Sources */,
+				A14C029526B28869002965F4 /* StorageHomeViewController.swift in Sources */,
 				B0AA6D5B22C7B45F00BFD3A9 /* VentilationDataViewController.swift in Sources */,
 				B0AFA68F24A8A4FD00B41C2B /* ColdStorageHomepageViewController.swift in Sources */,
 				B00F1EED24F629BA006A84D2 /* PanenInputViewController.swift in Sources */,
@@ -966,7 +985,6 @@
 				B0DBC02C236D1E9A0077169A /* StorageInputViewController.swift in Sources */,
 				B00EBA7A24A1C8DA00DC0E07 /* RPAInputViewController.swift in Sources */,
 				B04924B324AAEACD00DEAEB5 /* ColdStorageCalculations.swift in Sources */,
-				A12D8008269E8DED000E2723 /* RPAHomeViewController.swift in Sources */,
 				B0ECA83D24E2D04900266675 /* StartCycleFloorDetailViewController.swift in Sources */,
 				B029622D24794E01008629CD /* RetailStockTableViewController.swift in Sources */,
 				B0E9B8A724ED2A37005F0725 /* PanenTableViewController.swift in Sources */,
@@ -998,6 +1016,7 @@
 				B0B3B17A24A9876900B62223 /* ColdStorageImportViewController.swift in Sources */,
 				B0CAD44D24503F9500ADCEF7 /* RetailCustomersTableViewController.swift in Sources */,
 				B0FF25ED23388EB600F3A9F2 /* PushNotificationSender.swift in Sources */,
+				A12CFB992702CFA9000564A9 /* ColdStorageModels.swift in Sources */,
 				B081F346236F64AC005CC693 /* CategoryToImage.swift in Sources */,
 				B0BF530624EFC36E009F2C99 /* RangeBBSettingsViewController.swift in Sources */,
 				B06B6D3B22FE97C600B1395C /* SignatureViewController.swift in Sources */,
@@ -1014,6 +1033,7 @@
 				B08C6995237CBF2700AC10B5 /* PettyCashReportViewController.swift in Sources */,
 				B008D37F23AF54EE0026FC9F /* ReferenceTemplateTableViewController.swift in Sources */,
 				B04BD13824D27208002A8928 /* DailyRecordDataTableViewController.swift in Sources */,
+				A1739032273CFA6F00D40EF0 /* StorageTableViewController.swift in Sources */,
 				B09B32C1241F599300043500 /* DataModels.swift in Sources */,
 				B05FBCC724AC402B00D01CF6 /* TallyViewController.swift in Sources */,
 				B0E4FAB724A31B3200585A96 /* StorageProvidersTableViewController.swift in Sources */,
@@ -1036,12 +1056,12 @@
 				B035A2D424E0DD6500FF72BE /* ListrikDataTableViewController.swift in Sources */,
 				B0DBDEE924FCE7B700EBE3D7 /* CarcassModel.swift in Sources */,
 				B00CA2F32342442100F361A2 /* RekeningViewController.swift in Sources */,
-				A120D6B4269D482E003E8C70 /* RPAModel.swift in Sources */,
 				B08C6991237CBEE500AC10B5 /* PettyCashHistoryTableViewController.swift in Sources */,
 				A1562CE8259D88C400B16AB7 /* WholesaleModel.swift in Sources */,
 				B0707D6924A07B4B00BDE8F7 /* MenuListTableViewController.swift in Sources */,
 				B00F39CF24DC04700089A7F7 /* ListrikLaporViewController.swift in Sources */,
 				B0682B222451C2330038B3A0 /* RetailPreparationTicketViewController.swift in Sources */,
+				A1362FE926F449A7009E9DEF /* ColdStorageViewController.swift in Sources */,
 				B06B6D3922FE96DE00B1395C /* YPDrawSignatureView.swift in Sources */,
 				B0579C0624F8BF0A00304FA6 /* PembayaranTableViewController.swift in Sources */,
 				B0B3B17E24AA393F00B62223 /* ColdStorageHomepageInfoViewController.swift in Sources */,
@@ -1203,7 +1223,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = broilerfarm/broilerfarm.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AAK34BCDWP;
 				INFOPLIST_FILE = broilerfarm/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1211,7 +1231,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.3;
+				MARKETING_VERSION = 2.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dotulong.rainiersbroilerfarm;
 				PRODUCT_NAME = ChickenApp;
 				SUPPORTS_MACCATALYST = NO;
@@ -1227,7 +1247,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = broilerfarm/broilerfarm.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AAK34BCDWP;
 				INFOPLIST_FILE = broilerfarm/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -1235,7 +1255,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.3;
+				MARKETING_VERSION = 2.6;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dotulong.rainiersbroilerfarm;
 				PRODUCT_NAME = ChickenApp;
 				SUPPORTS_MACCATALYST = NO;
